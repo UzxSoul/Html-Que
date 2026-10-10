@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hmp-starter-1",
+    "question": "Which heading element represents the highest heading rank in HTML?",
+    "options": [
+      "<h6>",
+      "<heading>",
+      "<h1>",
+      "<head>"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The h1 element represents the highest heading rank. Default browser styles usually make it largest, but CSS can change visual size independently of semantic rank.",
+    "topic": "Semantics",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-2",
+    "question": "Which attribute is used to provide alternate text for an image if it cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "longdesc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The alt attribute provides alternative text for an image, used by screen readers and shown if the image fails to load.",
+    "topic": "Accessibility",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-3",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<link>",
+      "<href>",
+      "<a>",
+      "<url>"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The <a> (anchor) element creates hyperlinks, with the destination specified using the href attribute.",
+    "topic": "Links",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-4",
+    "question": "Which HTML element is used to define an unordered (bulleted) list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<list>",
+      "<dl>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "<ul> defines an unordered list, displayed with bullet points, while <ol> defines an ordered (numbered) list.",
+    "topic": "Semantics",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-5",
+    "question": "What is the correct HTML element for inserting a line break?",
+    "options": [
+      "<break>",
+      "<lb>",
+      "<br>",
+      "<newline>"
+    ],
+    "correctAnswer": 2,
+    "explanation": "<br> is an empty element that inserts a single line break and does not require a closing tag.",
+    "topic": "Parsing",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-6",
+    "question": "Which attribute specifies where the result of an HTML form submission should be sent?",
+    "options": [
+      "method",
+      "action",
+      "target",
+      "enctype"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The action attribute of the <form> tag specifies the URL that will process the submitted form data.",
+    "topic": "Forms",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-7",
+    "question": "Which tag is used to add a table row in HTML?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<table>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "<tr> defines a table row, while <td> defines a standard data cell and <th> defines a header cell.",
+    "topic": "Tables",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-8",
+    "question": "Which element goes inside <head> to set the document's title shown in the browser tab?",
+    "options": [
+      "<meta>",
+      "<header>",
+      "<title>",
+      "<caption>"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The <title> element defines the document title, shown in the browser tab, bookmarks, and search results; it must be text only.",
+    "topic": "Metadata",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-9",
+    "question": "Which input type creates a single-line text field for free text entry?",
+    "options": [
+      "type=\"text\"",
+      "type=\"area\"",
+      "type=\"string\"",
+      "type=\"line\""
+    ],
+    "correctAnswer": 0,
+    "explanation": "type=\"text\" is the default input type, creating a single-line text field.",
+    "topic": "Forms",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-10",
+    "question": "Which tag is used to embed an image in an HTML page?",
+    "options": [
+      "<picture>",
+      "<img>",
+      "<image>",
+      "<src>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The <img> tag embeds an image, using src for the file path and alt for alternative text; it is an empty element with no closing tag.",
+    "topic": "Semantics",
+    "difficulty": "Easy",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-11",
+    "question": "Which <input> attribute is used to associate an <input> with a <label> for accessibility?",
+    "options": [
+      "name and value",
+      "id on input matched by for on label",
+      "class on both",
+      "tabindex on label"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The label's for attribute must match the input's id attribute, binding them so screen readers announce the label and clicking the label toggles the control.",
+    "topic": "Accessibility",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-12",
+    "question": "What is the purpose of the colspan attribute in an HTML table?",
+    "options": [
+      "Merges rows across multiple columns",
+      "Merges a cell across multiple columns",
+      "Sets the column width in pixels",
+      "Adds spacing between columns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "colspan on a <td> or <th> makes that cell span across the specified number of columns; rowspan is used to span multiple rows.",
+    "topic": "Tables",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-13",
+    "question": "Which semantic element is most appropriate for independent, self-contained content such as a blog post or forum entry?",
+    "options": [
+      "<section>",
+      "<article>",
+      "<aside>",
+      "<div>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "<article> represents independent, self-contained content that could be distributed or reused on its own, such as a blog post or product card.",
+    "topic": "Semantics",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-14",
+    "question": "Which meta tag correctly instructs the browser to scale the page properly on mobile devices?",
+    "options": [
+      "<meta charset=\"UTF-8\">",
+      "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "<meta name=\"robots\" content=\"index\">",
+      "<meta http-equiv=\"refresh\" content=\"30\">"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The viewport meta tag with width=device-width and initial-scale=1.0 controls the page's dimensions and scaling for responsive design on mobile devices.",
+    "topic": "Metadata",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-15",
+    "question": "In the Drag and Drop API, which method is used inside the ondragstart handler to specify what data is being dragged?",
+    "options": [
+      "dataTransfer.getData()",
+      "dataTransfer.setData()",
+      "dataTransfer.drop()",
+      "element.setAttribute(\"drag\")"
+    ],
+    "correctAnswer": 1,
+    "explanation": "dataTransfer.setData() sets the type and value of the data being dragged during the dragstart event; dataTransfer.getData() retrieves it on drop.",
+    "topic": "Apis",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-16",
+    "question": "Which HTML5 form attribute marks an input field as mandatory before the form can be submitted?",
+    "options": [
+      "mandatory",
+      "validate",
+      "required",
+      "needed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The required boolean attribute specifies that an input field must be filled out before the form can be submitted, triggering built-in browser validation.",
+    "topic": "Forms",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-17",
+    "question": "What does the target=\"_blank\" attribute do when used on an <a> tag?",
+    "options": [
+      "Opens the link in the same frame",
+      "Opens the link in a new tab or window",
+      "Disables the link",
+      "Downloads the linked file"
+    ],
+    "correctAnswer": 1,
+    "explanation": "target=\"_blank\" instructs the browser to open the linked document in a new browsing context, typically a new tab or window.",
+    "topic": "Links",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-18",
+    "question": "Which element should wrap a group of related options within a <select> dropdown to label them?",
+    "options": [
+      "<optgroup>",
+      "<fieldset>",
+      "<legend>",
+      "<datalist>"
+    ],
+    "correctAnswer": 0,
+    "explanation": "<optgroup> groups related <option> elements within a <select> list and uses its label attribute to display a group heading.",
+    "topic": "Forms",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-19",
+    "question": "Why does the browser's HTML parser treat an unclosed <p> tag leniently rather than throwing an error?",
+    "options": [
+      "HTML has no parsing rules at all",
+      "The HTML parsing algorithm defines implicit closing rules so browsers can recover from omitted end tags",
+      "Browsers ignore all paragraph tags",
+      "The <p> tag is deprecated and ignored"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The HTML5 parsing specification defines error-recovery rules so browsers consistently handle omitted or malformed tags like missing </p>, rather than failing; still best practice is to always close tags.",
+    "topic": "Parsing",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-20",
+    "question": "Which attribute on a <table> row or cell is the modern replacement for the deprecated \"headers\" styling attributes like bgcolor, used instead with CSS?",
+    "options": [
+      "style via CSS classes",
+      "border",
+      "cellpadding",
+      "align"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Modern HTML favors using CSS (via class or style) for table presentation; older presentational attributes like bgcolor, align, and cellpadding are deprecated in favor of CSS.",
+    "topic": "Tables",
+    "difficulty": "Medium",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-21",
+    "question": "According to the WAI-ARIA accessibility principle of 'role, name, and value', when must you manually add role=\"button\" to an element?",
+    "options": [
+      "Always, even on native <button> elements",
+      "Only when a non-native element (e.g., a styled <div> or <li>) is used to implement button behavior",
+      "Never, ARIA roles are deprecated",
+      "Only inside <form> elements"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Native elements like <button> already have an implicit button role built in, making an explicit role redundant; role=\"button\" is needed only when a non-semantic element such as <div> is forced to behave like a button.",
+    "topic": "Accessibility",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-22",
+    "question": "What is the key functional difference between localStorage and sessionStorage in the Web Storage API?",
+    "options": [
+      "localStorage persists across browser sessions with no expiration; sessionStorage is cleared when the tab closes",
+      "sessionStorage can store more data than localStorage",
+      "localStorage sends data to the server on every request like cookies",
+      "sessionStorage is shared across all open tabs of the same origin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "localStorage stores data with no expiration date, persisting across browser restarts, while sessionStorage keeps data only for the duration of the page session, clearing it when the tab is closed.",
+    "topic": "Apis",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-23",
+    "question": "Why is Web Storage generally considered more suitable than cookies for storing larger amounts of client-side data?",
+    "options": [
+      "Web Storage data is automatically sent with every HTTP request",
+      "Web Storage offers a much larger storage limit (at least 5MB) and is never transmitted to the server",
+      "Cookies cannot store strings",
+      "Web Storage works only over HTTPS"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unlike cookies, which are limited in size and attached to every server request, Web Storage provides a larger per-origin storage limit (at least 5MB) and keeps data purely client-side.",
+    "topic": "Apis",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-24",
+    "question": "When using the <label> element for accessibility, what secondary interaction benefit does it provide besides being read aloud by screen readers?",
+    "options": [
+      "It automatically validates the input's data type",
+      "Clicking the label text also focuses or toggles the associated control, helping users with motor difficulties",
+      "It encrypts the entered data",
+      "It disables autocomplete on the field"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Because the label is bound to its control via the for/id relationship, clicking anywhere on the label text activates or focuses the control, which particularly helps users who have difficulty clicking small targets like checkboxes.",
+    "topic": "Forms",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-25",
+    "question": "Which statement correctly distinguishes <section> from <div> in semantic HTML?",
+    "options": [
+      "<section> is purely a styling hook with no semantic meaning, exactly like <div>",
+      "<section> represents a thematic grouping of content, typically with a heading, while <div> has no inherent semantic meaning",
+      "<div> can only appear inside <body>, while <section> can appear anywhere",
+      "<section> is obsolete in HTML5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "<section> is a semantic element representing a thematic grouping of content (often with a heading), giving meaning to assistive technologies, whereas <div> is a generic, non-semantic container used only for styling or scripting hooks.",
+    "topic": "Semantics",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-26",
+    "question": "In an HTML form, what is the practical effect of omitting the method attribute on the <form> tag?",
+    "options": [
+      "The form will fail to submit entirely",
+      "The browser defaults to the GET method, appending form data as a URL query string",
+      "The browser defaults to POST and hides data from the URL",
+      "The form automatically uses PUT"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If the method attribute is not specified, browsers default to GET, which appends form data as visible name/value pairs in the URL query string rather than in the request body.",
+    "topic": "Forms",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-27",
+    "question": "Why do web developers typically add robust error handling and capability checks before using a Web API such as Geolocation?",
+    "options": [
+      "Because all Web APIs are deprecated and may be removed at any time",
+      "Because not all browsers support every API, and sensitive APIs require user permission, so code must gracefully handle unsupported browsers or denied permissions",
+      "Because Web APIs only work when JavaScript is disabled",
+      "Because APIs require a server-side proxy to function at all"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Best practice for Web APIs includes checking browser support and handling errors gracefully, since support varies across browsers and sensitive APIs like Geolocation require explicit user permission that may be denied.",
+    "topic": "Apis",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-28",
+    "question": "Which best describes how a browser's HTML parser handles a <table> element containing a stray text node directly inside <table> but outside any <td>?",
+    "options": [
+      "It throws a fatal parsing error and stops rendering the page",
+      "The parser applies foster parenting rules, typically relocating the misplaced content outside or before the table in the DOM",
+      "The text is silently deleted and never appears in the DOM",
+      "The browser automatically wraps it in a new <table> element"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The HTML parsing algorithm defines 'foster parenting' rules for content that appears in table-related insertion modes but doesn't belong directly inside <table>, repositioning such nodes in the DOM tree instead of causing a fatal error.",
+    "topic": "Parsing",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-29",
+    "question": "What distinguishes the <caption> element from a <th> element in an HTML table?",
+    "options": [
+      "<caption> labels a single column header; <th> labels the whole table",
+      "<caption> provides a title/description for the entire table and must be the first child of <table>; <th> defines a header cell for a row or column",
+      "They are interchangeable and both define cell content",
+      "<caption> can only be used with <tfoot>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "<caption> provides an overall title or description for a table and, per spec, must appear as the first child inside the <table> element, while <th> defines header cells for individual rows or columns.",
+    "topic": "Tables",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "hmp-starter-30",
+    "question": "Which meta configuration is most appropriate for a page that must not be indexed by search engines but should still render normally for users?",
+    "options": [
+      "<meta charset=\"UTF-8\">",
+      "<meta name=\"robots\" content=\"noindex\">",
+      "<meta http-equiv=\"refresh\" content=\"0\">",
+      "<meta name=\"viewport\" content=\"width=device-width\">"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The robots meta tag with content=\"noindex\" tells compliant search engine crawlers not to index the page, while the page still loads and displays normally for visitors.",
+    "topic": "Metadata",
+    "difficulty": "Advanced",
+    "sourceName": "W3Schools HTML Tutorial",
+    "sourceUrl": "https://www.w3schools.com/html/default.asp",
+    "verification": "curriculum-aligned",
+    "createdAt": "2026-10-09T00:00:00.000Z"
+  }
+]
